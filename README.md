@@ -37,6 +37,15 @@ And of course--- view the products in the list and their quantity sorted by cate
 
 ![3](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/46a6d3c3-b6bc-43d0-909c-d76cde07af43)
 
+There is an icon that shows the number of products in the list
+
+![7](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/e5c9546f-43be-4bde-8f1a-e32122c69e2a)
+
+
+The screens are responsive, when the screen is small the icon changes to three dots
+
+![6](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/853d9cd5-8298-4a00-8843-978f1c7e7690)
+
 **### recipes feature-**
 There is a possibility to get recipes and based on them to know which products you are interested in buying
 You just have to scroll down and there type any recipe you want and you will get a selection of several
@@ -44,5 +53,11 @@ You just have to scroll down and there type any recipe you want and you will get
 ![4](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/c7fe3b87-8c3b-43a9-abb8-f0e11f1906d6)
 
 When you click on one of them (the mechanism for receiving the images (API) is temporarily inactive) you will receive all the details of the recipe.
+
 ![5](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/94ee1a1a-3e86-446b-be93-be83a5a2b586)
+
+The recipe display
+
+![8](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/9f8e921b-82d9-493c-9931-49545076ecde)
+
 
