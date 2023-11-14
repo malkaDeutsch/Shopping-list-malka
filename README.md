@@ -1,5 +1,5 @@
 # Shopping-list-malka
-**_### technologies: Node.js ,React.js (Vite) ,MongoDB_**
+**_### Technologies: Node.js ,React.js (Vite) ,MongoDB_**
 
 **_### Additional libraries:  MUI, ninjas API , unsplashs API_**
 
