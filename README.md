@@ -25,7 +25,7 @@ Now all that remains is to watch and enter data
 
 ### **Project overview:**
 You can enter a product name, choose a category,
-In the event that a specific category is not selected, the depletive category is: "General"
+In the event that a specific category is not selected, the default category is: "General"
 
 ![1](https://github.com/malkaDeutsch/Shopping-list-malka/assets/101219031/e78097a3-5ba1-4e07-af14-2864cf560c9d)
 
